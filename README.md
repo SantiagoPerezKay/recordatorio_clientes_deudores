@@ -2,6 +2,17 @@
 
 Este código representa mi primer proyecto freelance para una pequeña casa de electrodomésticos. Su propósito es enviar recordatorios diarios al dueño de la tienda sobre los clientes con cuotas impagas al final del día. A continuación, se describen las funciones principales del código:
 
+## Librerías Necesarias:
+Asegúrate de tener instaladas las siguientes librerías para ejecutar el script:
+
+```bash
+pip install pandas pywhatkit
+```
+### librerias standard de python utilizadas
+- from datetime import timedelta, datetime
+- import pyautogui as pg
+- import time
+
 ## 1. Lectura del Archivo Excel:
    - Utiliza la biblioteca `pandas` para leer el archivo Excel 'clientes.xlsx', que contiene información sobre los clientes y sus cuotas.
    - En caso de errores durante la lectura, imprime un mensaje de error para facilitar la identificación y resolución.
