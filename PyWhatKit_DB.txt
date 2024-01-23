@@ -1,0 +1,130 @@
+Date: 12/5/2023
+Time: 23:19
+Phone Number: +543462516761
+Message: adasdasdasasdasdasds
+--------------------
+Date: 12/5/2023
+Time: 23:19
+Phone Number: +543462516761
+Message: adasdasd
+--------------------
+Date: 12/5/2023
+Time: 23:20
+Phone Number: +543462516761
+Message: adasdasd
+--------------------
+Date: 12/5/2023
+Time: 23:21
+Phone Number: +543462516761
+Message: adasdasd
+--------------------
+Date: 12/5/2023
+Time: 23:22
+Phone Number: +543462516761
+Message: adasdasd
+--------------------
+Date: 12/5/2023
+Time: 23:26
+Phone Number: +543462516761
+Message: Cliente: santiagofecha de vencimiento: 15/05/23
+--------------------
+Date: 12/5/2023
+Time: 23:26
+Phone Number: +543462516761
+Message: Cliente: robertofecha de vencimiento: 10/04/23
+--------------------
+Date: 12/5/2023
+Time: 23:26
+Phone Number: +543462516761
+Message: Cliente: robertofecha de vencimiento: 10/05/23
+--------------------
+Date: 12/5/2023
+Time: 23:27
+Phone Number: +543462516761
+Message: Cliente: santiagofecha de vencimiento: 15/05/23
+--------------------
+Date: 12/5/2023
+Time: 23:27
+Phone Number: +543462516761
+Message: Cliente: robertofecha de vencimiento: 10/04/23
+--------------------
+Date: 12/5/2023
+Time: 23:28
+Phone Number: +543462516761
+Message: Cliente: robertofecha de vencimiento: 10/05/23
+--------------------
+Date: 8/8/2023
+Time: 11:59
+Phone Number: +543462516761
+Message: Cliente: santiagofecha de vencimiento: 15/05/23
+--------------------
+Date: 8/8/2023
+Time: 11:59
+Phone Number: +543462516761
+Message: Cliente: santiagofecha de vencimiento: 14/06/23
+--------------------
+Date: 8/8/2023
+Time: 11:59
+Phone Number: +543462516761
+Message: Cliente: robertofecha de vencimiento: 10/04/23
+--------------------
+Date: 8/8/2023
+Time: 12:0
+Phone Number: +543462516761
+Message: Cliente: robertofecha de vencimiento: 10/05/23
+--------------------
+Date: 8/8/2023
+Time: 12:0
+Phone Number: +543462516761
+Message: Cliente: martinfecha de vencimiento: 06/08/23
+--------------------
+Date: 8/8/2023
+Time: 12:2
+Phone Number: +543462516761
+Message: Cliente: santiagofecha de vencimiento: 15/05/23
+--------------------
+Date: 8/8/2023
+Time: 12:2
+Phone Number: +543462516761
+Message: Cliente: santiagofecha de vencimiento: 14/06/23
+--------------------
+Date: 8/8/2023
+Time: 12:2
+Phone Number: +543462516761
+Message: Cliente: robertofecha de vencimiento: 10/04/23
+--------------------
+Date: 8/8/2023
+Time: 12:2
+Phone Number: +543462516761
+Message: Cliente: robertofecha de vencimiento: 10/05/23
+--------------------
+Date: 8/8/2023
+Time: 12:3
+Phone Number: +543462516761
+Message: Cliente: martinfecha de vencimiento: 06/08/23
+--------------------
+Date: 23/1/2024
+Time: 17:2
+Phone Number: +543462516761
+Message: Cliente: santiagofecha de vencimiento: 15/05/23
+--------------------
+Date: 23/1/2024
+Time: 17:3
+Phone Number: +543462516761
+Message: Cliente: santiagofecha de vencimiento: 14/06/23
+--------------------
+Date: 23/1/2024
+Time: 17:3
+Phone Number: +543462516761
+Message: Cliente: robertofecha de vencimiento: 10/04/23
+--------------------
+Date: 23/1/2024
+Time: 17:3
+Phone Number: +543462516761
+Message: Cliente: robertofecha de vencimiento: 10/05/23
+--------------------
+Date: 23/1/2024
+Time: 17:3
+Phone Number: +543462516761
+Message: Cliente: martinfecha de vencimiento: 06/08/23
+--------------------
